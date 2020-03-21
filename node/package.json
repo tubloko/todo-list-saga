@@ -1,0 +1,19 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "dependencies": {
+    "knex": "^0.20.9",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-cors": "0.0.16",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^8.0.7",
+    "koa-static": "^5.0.0",
+    "moment": "^2.24.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "config": "^3.2.5",
+    "nodemon": "^2.0.2"
+  }
+}
