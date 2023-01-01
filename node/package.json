@@ -13,7 +13,7 @@
     "mysql": "^2.18.1"
   },
   "devDependencies": {
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "nodemon": "^2.0.2"
   }
 }
